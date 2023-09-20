@@ -4,6 +4,7 @@ metadata:
   name: ratings
   labels:
     service: ratings
+    namespace: ZeusCycode
 spec:
   ports:
   - name: http
